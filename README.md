@@ -67,6 +67,9 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - **Seed the database an ASP.NET Core MVC application**
   >This tutorial teaches how to seed the database, create a new class named `SeedData` in the Models folder. If there are any records in the database, the seed initializer returns and no records are added.
 
+- **Use Request and View Model (MVVM Design Pattern)**
+  >When we code for a pragmatic actual environment, we confront many issues to refactor our code for a better understanding and to simply pinpoint the bugs. We primarily focus on reusability and try to shift as much code as possible to a common method so that development time and maintenance costs are minimized.
+
 - **Add search, sorting, pagination to ASP.NET Core MVC application**
   >This tutorial teaches how to add search, sorting, pagination to ASP.NET Core MVC application.
 
