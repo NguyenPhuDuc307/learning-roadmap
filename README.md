@@ -58,13 +58,13 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 
 ### Basic
 
-- **Get started with ASP.NET Core**
+- **[Get started with ASP.NET Core MVC, Connect to SQL Server database to CRUD](https://github.com/NguyenPhuDuc307/get-started-dotnet-mvc)**
   >This tutorial teaches ASP.NET Core MVC web development with models, controllers, and views. Initialize an MVC app and connect to SQL Server database to CRUD.
 
-- **Add a new field and add validation to an ASP.NET Core MVC application**
+- **[Add a new field and add validation to an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/add-field-and-validation)**
   >This tutorial teaches how to add new fields to entities and migrate them into the database. Then we will learn how to validate properties using `ValidationAttribute`.
 
-- **Seed the database an ASP.NET Core MVC application**
+- **[Seed the database an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/seed-the-database)**
   >This tutorial teaches how to seed the database, create a new class named `SeedData` in the Models folder. If there are any records in the database, the seed initializer returns and no records are added.
 
 - **Use Request and View Model (MVVM Design Pattern)**
