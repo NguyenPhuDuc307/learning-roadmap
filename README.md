@@ -68,7 +68,7 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
   >This tutorial teaches how to seed the database, create a new class named `SeedData` in the Models folder. If there are any records in the database, the seed initializer returns and no records are added.
 
 - **Use Request and View Model (MVVM Design Pattern)**
-  >When we code for a pragmatic actual environment, we confront many issues to refactor our code for a better understanding and to simply pinpoint the bugs. We primarily focus on reusability and try to shift as much code as possible to a common method so that development time and maintenance costs are minimized.
+  >ASP.Net Core has a wide array of libraries that provide great assistance in development strategy. Using MVVM pattern and AutoMapper you can reduce your code lines and produce more reusable and efficient code.
 
 - **Add search, sorting, pagination to ASP.NET Core MVC application**
   >This tutorial teaches how to add search, sorting, pagination to ASP.NET Core MVC application.
