@@ -79,6 +79,9 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - **Introduction to relationships**
   >This document provides a simple introduction to the representation of relationships in object models and relational databases, including how EF Core maps between the two.
 
+- **AJAX Jquery with ASP.NET Core**
+  >This tutorial teaches a short course that helps you create an add, edit, delete pagination search screen using ASP.NET MVC and JQuery AJAX for key operations.
+
 - **File Storage in .NET**
   >This tutorial shows how to store and manage files in an ASP.NET Core MVC application.
 
