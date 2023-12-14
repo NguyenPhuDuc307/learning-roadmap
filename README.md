@@ -70,11 +70,11 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - **[Use AutoMapper in MVVM Pattern ASP.NET Core](https://github.com/NguyenPhuDuc307/mvvm-design-pattern)**
   >ASP.Net Core has a wide array of libraries that provide great assistance in development strategy. Using MVVM pattern and AutoMapper you can reduce your code lines and produce more reusable and efficient code.
 
-- **Add search, sorting, pagination to ASP.NET Core MVC application**
-  >This tutorial teaches how to add search, sorting, pagination to ASP.NET Core MVC application.
-
 - **Use dependency injection in .NET**
   >.NET supports the dependency injection (DI) software design pattern, which is a technique for achieving [Inversion of Control (IoC)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#dependency-inversion) between classes and their dependencies. Dependency injection in .NET is a built-in part of the framework, along with configuration, logging, and the options pattern.
+  
+- **Add search, sorting, pagination to ASP.NET Core MVC application**
+  >This tutorial teaches how to add search, sorting, pagination to ASP.NET Core MVC application.
 
 - **Introduction to relationships**
   >This document provides a simple introduction to the representation of relationships in object models and relational databases, including how EF Core maps between the two.
