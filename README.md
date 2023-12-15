@@ -88,6 +88,9 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - **Create a web API with ASP.NET Core**
   >This tutorial teaches the basics of building a controller-based web API that uses a database. Another approach to creating APIs in ASP.NET Core is to create minimal APIs. For help in choosing between minimal APIs and controller-based APIs. For a tutorial on creating a minimal API, see [Tutorial: Create a minimal API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio).
 
+- *HttpClient*
+  >The HttpClient class is used to send HTTP requests (Http Request Message - Request) and receive Response responses (Http Response Message) from those queries. This class belongs to the System.Net.Http namespace, this namespace contains classes that help create communication between client and server.
+
 ### Advanced
 
 - **Introduction to Identity on ASP.NET Core**
