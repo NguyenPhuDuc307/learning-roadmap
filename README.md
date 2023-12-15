@@ -73,7 +73,7 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - **[Use dependency injection in .NET](https://github.com/NguyenPhuDuc307/dependency-injection)**
   >.NET supports the dependency injection (DI) software design pattern, which is a technique for achieving [Inversion of Control (IoC)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#dependency-inversion) between classes and their dependencies. Dependency injection in .NET is a built-in part of the framework, along with configuration, logging, and the options pattern.
   
-- **Add search, sorting, pagination to ASP.NET Core MVC application**
+- **[Add search, sorting, pagination to ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/search-sorting-pagination)**
   >This tutorial teaches how to add search, sorting, pagination to ASP.NET Core MVC application.
 
 - **Introduction to relationships**
