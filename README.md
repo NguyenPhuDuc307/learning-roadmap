@@ -65,7 +65,7 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
   >This tutorial teaches how to add new fields to entities and migrate them into the database. Then we will learn how to validate properties using `ValidationAttribute`.
 
 - **[Seed the database an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/seed-the-database)**
-  >This tutorial teaches how to seed the database, create a new class named `SeedData` in the Models folder. If there are any records in the database, the seed initializer returns and no records are added.
+  >This tutorial teaches how to seed the database, create a new class named `DbInitializer` in the Models folder. If there are any records in the database, the seed initializer returns and no records are added.
 
 - **[Use AutoMapper in MVVM Pattern ASP.NET Core](https://github.com/NguyenPhuDuc307/mvvm-design-pattern)**
   >ASP.Net Core has a wide array of libraries that provide great assistance in development strategy. Using MVVM pattern and AutoMapper you can reduce your code lines and produce more reusable and efficient code.
