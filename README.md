@@ -80,11 +80,8 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - **[Introduction to relationships](https://github.com/NguyenPhuDuc307/introduction-relationship)**
   >This document provides a simple introduction to the representation of relationships in object models and relational databases, including how EF Core maps between the two.
 
-- **File Storage in .NET**
+- **[File Storage in .NET](https://github.com/NguyenPhuDuc307/file-storage)**
   >This tutorial shows how to store and manage files in an ASP.NET Core MVC application.
-
-- **AJAX JQuery with ASP.NET Core**
-  >This tutorial teaches a short course that helps you create an add, edit, delete pagination search screen using ASP.NET MVC and JQuery AJAX for key operations.
 
 - **Create a web API with ASP.NET Core**
   >This tutorial teaches the basics of building a controller-based web API that uses a database. Another approach to creating APIs in ASP.NET Core is to create minimal APIs. For help in choosing between minimal APIs and controller-based APIs. For a tutorial on creating a minimal API, see [Tutorial: Create a minimal API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio).
@@ -103,6 +100,9 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - **Distributed caching in ASP.NET Core**
   >A distributed cache is a cache shared by multiple app servers, typically maintained as an external service to the app servers that access it. A distributed cache can improve the performance and scalability of an ASP.NET Core app, especially when the app is hosted by a cloud service or a server farm.
 
+- **AJAX JQuery with ASP.NET Core**
+  >This tutorial teaches a short course that helps you create an add, edit, delete pagination search screen using ASP.NET MVC and JQuery AJAX for key operations.
+  
 - **Unit test controller logic in ASP.NET Core**
   >Unit tests involve testing a part of an app in isolation from its infrastructure and dependencies. When unit testing controller logic, only the contents of a single action are tested, not the behavior of its dependencies or of the framework itself.
 
