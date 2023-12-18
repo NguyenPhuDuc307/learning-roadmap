@@ -53,6 +53,7 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - ORM (Object Relational Mapping): Entity Framework, Entity Framework Core,...
 - HTTP and HTTPS
 - HTTP response status codes
+- [**Common C# code conventions**](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) and [**SQL Server Coding Standards**](https://github.com/CA-CST-SII/Software-Standards/blob/master/SQL%20Server%20Coding%20Standards.md)
 
 ## Roadmap
 
