@@ -113,4 +113,4 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 - **Get started with ASP.NET Core SignalR**
   >ASP.NET Core SignalR is an open-source library that simplifies adding real-time web functionality to apps. Real-time web functionality enables server-side code to push content to clients instantly.
   
-Next let's [Install .NET and SQL Server environment in Visual Studio Code](https://github.com/NguyenPhuDuc307/install-dotnet-sql-server).
+Next let's [Part 1: Install .NET and SQL Server environment in Visual Studio Code](https://github.com/NguyenPhuDuc307/install-dotnet-sql-server).
