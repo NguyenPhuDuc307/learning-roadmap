@@ -59,34 +59,38 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 
 ### Basic
 
-- **[Get started with ASP.NET Core MVC, Connect to SQL Server database to CRUD](https://github.com/NguyenPhuDuc307/get-started-dotnet-mvc)**
+- **[Part 1: Install .NET and SQL Server environment in Visual Studio Code](https://github.com/NguyenPhuDuc307/install-dotnet-sql-server)**
+
+  >Instructions for installing the .NET application development environment on Visual Studio Code and using Microsoft SQL Server database. SQL Server will be installed running on Docker. You can use this guide to do it on **Windows**, **MacOS**.
+
+- **[Part 2: Get started with ASP.NET Core MVC, Connect to SQL Server database to CRUD](https://github.com/NguyenPhuDuc307/get-started-dotnet-mvc)**
   >This tutorial teaches ASP.NET Core MVC web development with models, controllers, and views. Initialize an MVC app and connect to SQL Server database to CRUD.
 
-- **[Add a new field and add validation to an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/add-field-and-validation)**
+- **[Part 3: Add a new field and add validation to an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/add-field-and-validation)**
   >This tutorial teaches how to add new fields to entities and migrate them into the database. Then we will learn how to validate properties using `ValidationAttribute`.
 
-- **[Seed the database an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/seed-the-database)**
+- **[Part 4: Seed the database an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/seed-the-database)**
   >This tutorial teaches how to seed the database, create a new class named `DbInitializer` in the Models folder. If there are any records in the database, the seed initializer returns and no records are added.
 
-- **[Use AutoMapper in MVVM Pattern ASP.NET Core](https://github.com/NguyenPhuDuc307/mvvm-design-pattern)**
+- **[Part 5: Use AutoMapper in MVVM Pattern ASP.NET Core](https://github.com/NguyenPhuDuc307/mvvm-design-pattern)**
   >ASP.Net Core has a wide array of libraries that provide great assistance in development strategy. Using MVVM pattern and AutoMapper you can reduce your code lines and produce more reusable and efficient code.
 
-- **[Use dependency injection in .NET](https://github.com/NguyenPhuDuc307/dependency-injection)**
+- **[Part 6: Use dependency injection in .NET](https://github.com/NguyenPhuDuc307/dependency-injection)**
   >.NET supports the dependency injection (DI) software design pattern, which is a technique for achieving [Inversion of Control (IoC)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#dependency-inversion) between classes and their dependencies. Dependency injection in .NET is a built-in part of the framework, along with configuration, logging, and the options pattern.
   
-- **[Add search, sorting, pagination to ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/search-sorting-pagination)**
+- **[Part 7: Add search, sorting, pagination to ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/search-sorting-pagination)**
   >This tutorial teaches how to add search, sorting, pagination to ASP.NET Core MVC application.
 
-- **[Introduction to relationships](https://github.com/NguyenPhuDuc307/introduction-relationship)**
+- **[Part 8: Introduction to relationships](https://github.com/NguyenPhuDuc307/introduction-relationship)**
   >This document provides a simple introduction to the representation of relationships in object models and relational databases, including how EF Core maps between the two.
 
-- **[File Storage in .NET](https://github.com/NguyenPhuDuc307/file-storage)**
+- **[Part 9: File Storage in .NET](https://github.com/NguyenPhuDuc307/file-storage)**
   >This tutorial shows how to store and manage files in an ASP.NET Core MVC application.
 
-- **[Create a web API with ASP.NET Core](https://github.com/NguyenPhuDuc307/web-api)**
+- **[Part 10: Create a web API with ASP.NET Core](https://github.com/NguyenPhuDuc307/web-api)**
   >This tutorial teaches the basics of building a controller-based web API that uses a database. Another approach to creating APIs in ASP.NET Core is to create minimal APIs. For help in choosing between minimal APIs and controller-based APIs. For a tutorial on creating a minimal API, see [Tutorial: Create a minimal API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio).
 
-- **HttpClient**
+- **[Part 11: HttpClient](https://github.com/NguyenPhuDuc307/http-client)**
   >The HttpClient class is used to send HTTP requests (Http Request Message - Request) and receive Response responses (Http Response Message) from those queries. This class belongs to the System.Net.Http namespace, this namespace contains classes that help create communication between client and server.
 
 ### Advanced
