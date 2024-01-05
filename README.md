@@ -101,9 +101,6 @@ To extend functionality, Microsoft and others maintain a healthy .NET package ec
 
 ### Advanced
 
-- **Introduction to Identity on ASP.NET Core**
-  >Users can create an account with the login information stored in Identity or they can use an external login provider. Supported external login providers include Facebook, Google, Microsoft Account, and Twitter.
-
 - **Distributed caching in ASP.NET Core**
   >A distributed cache is a cache shared by multiple app servers, typically maintained as an external service to the app servers that access it. A distributed cache can improve the performance and scalability of an ASP.NET Core app, especially when the app is hosted by a cloud service or a server farm.
 
