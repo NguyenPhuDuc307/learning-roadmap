@@ -1,4 +1,8 @@
-# .NET programming learning roadmap
+# .NET programming learning roadmap 3.190.000 VNĐ (~~5.190.000 VNĐ~~)
+## Bank infomation
+**Bank name: Techcombank**
+**Bank code: 151618151618**
+**Full name: NGUYEN PHU DUC**
 
 >Introducing the basic .NET programming learning path step by step. This roadmap is compiled based on dotnet document. Refer to [dotnet documentation](https://learn.microsoft.com/en-us/docs/).
 
