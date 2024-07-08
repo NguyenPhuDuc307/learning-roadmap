@@ -1,4 +1,4 @@
-# .NET programming learning roadmap 3.190.000 VNĐ (~~5.190.000 VNĐ~~)
+# .NET programming learning roadmap 3.890.000 VNĐ (~~5.890.000 VNĐ~~)
 
 >Introducing the basic .NET programming learning path step by step. This roadmap is compiled based on dotnet document. Refer to [dotnet documentation](https://learn.microsoft.com/en-us/docs/).
 
