@@ -1,13 +1,6 @@
-# .NET programming learning roadmap 3.890.000 VNĐ (~~5.890.000 VNĐ~~)
+# .NET programming learning roadmap
 
 >Introducing the basic .NET programming learning path step by step. This roadmap is compiled based on dotnet document. Refer to [dotnet documentation](https://learn.microsoft.com/en-us/docs/).
-
-## Bank infomation
-**Bank name: Techcombank**
-
-**Bank code: 151618151618**
-
-**Full name: NGUYEN PHU DUC**
 
 You can also use some IDEs that have a built-in .NET running environment such as `Visual Studio`, `Visual Studio for Mac` or `Jetbrains Rider`...
 
